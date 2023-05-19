@@ -1,5 +1,4 @@
-# ttgo-tbeam-gps-reset-python
-Micropython code for TTGO T-Beam V1.0 and V1.1 to enable GPS in micropython
+# Micropython code for TTGO T-Beam V1.0 and V1.1 to enable GPS in micropython
 
 Tested in Pycom micropython variant for TTGO T-Beam @ https://github.com/nunomcruz/pycom-micropython-sigfox
 
